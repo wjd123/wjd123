@@ -1,4 +1,4 @@
-[[My blog]
+[My blog]
 
 ![](https://github-readme-stats.vercel.app/api?username=wjd123)
 
