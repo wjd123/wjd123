@@ -1,5 +1,5 @@
-[我的博客]
+[[My blog]
 
 ![](https://github-readme-stats.vercel.app/api?username=wjd123)
 
-[我的博客]:http://www.haloo.top/
+[My blog]:http://www.haloo.top/
